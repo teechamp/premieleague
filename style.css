@@ -1,0 +1,42 @@
+*{
+    box-sizing:border-box;
+    font-family:cursive;
+    margin:0;
+    padding:0;
+}
+
+body{
+    width:100%;
+    margin: 0;
+}
+
+.container{
+    width:960px;
+    margin: auto;
+}
+ 
+.container table{
+      border:5px solid blue;
+      border-collapse: collapse;
+  }
+
+  .container table tr{
+      border-bottom: 1px solid #000;
+  }
+  
+ .container table tr th, td{
+     /* padding: 4px; */
+  }
+
+.lightpink{
+    background-color: pink;
+}
+.lightblue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.lightbrown{
+    background-color: red;
+}
